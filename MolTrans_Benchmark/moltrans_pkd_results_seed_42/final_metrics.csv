@@ -1,0 +1,7 @@
+Metric,Value
+best_epoch,8.0
+best_val_rmse,1.0724023061331256
+test_mse,1.1380101442337036
+test_rmse,1.0667755828822216
+test_pearson_r,0.7462348937988281
+test_pearson_p,0.0

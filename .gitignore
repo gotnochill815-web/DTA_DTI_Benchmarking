@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Pickle
+*.pkl
+
+# Numpy
+*.npy
+
+# Outputs
+outputs/
+checkpoints/
+
+# Processed datasets
+GraphDTA_Benchmark/data/processed/
+GraphDTA_Benchmark/data/metadata/
+
+# MolTrans checkpoints
+MolTrans_Benchmark/**/best_model*.pth
